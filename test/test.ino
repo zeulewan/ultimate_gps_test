@@ -1,7 +1,7 @@
 //Serial is computer serial
 //Serial5 is ant
 //Serial8 is GPS
-
+// this is a test
 
 void setup() {
   // make this baud rate fast enough to we aren't waiting on it
