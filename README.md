@@ -1,3 +1,3 @@
 # ultimate_gps_test
 
-run
+run now
